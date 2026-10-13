@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<title>Sitcom Showdown</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-title" content="Showdown">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#140c1c">
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%;background:#000;overflow:hidden;touch-action:none;-webkit-user-select:none;user-select:none}
+body{display:flex;justify-content:center;align-items:center}
+#wrap{position:relative;width:min(100vw,177.78vh);aspect-ratio:16/9}
+canvas{display:block;width:100%;height:100%;image-rendering:pixelated}
+#touch{position:absolute;inset:0;pointer-events:none;display:none}
+#touch.on{display:block}
+.tb{position:absolute;pointer-events:auto;border-radius:50%;border:2px solid rgba(255,255,255,.55);background:rgba(0,0,0,.35);color:#fff;font:700 13px 'Press Start 2P',monospace;display:flex;align-items:center;justify-content:center}
+.tb.down{background:rgba(255,200,40,.55)}
+#stick{position:absolute;left:4%;bottom:8%;width:22%;aspect-ratio:1;border-radius:50%;border:2px solid rgba(255,255,255,.4);background:rgba(0,0,0,.25);pointer-events:auto}
+#knob{position:absolute;left:35%;top:35%;width:30%;height:30%;border-radius:50%;background:rgba(255,255,255,.6)}
+#rotate{display:none;position:fixed;inset:0;background:#140c1c;color:#ffd23f;font:16px 'Press Start 2P',monospace;text-align:center;align-items:center;justify-content:center;padding:24px;line-height:1.8;z-index:9}
+@media (orientation: portrait) and (pointer: coarse){#rotate{display:flex}}
+</style>
+</head>
+<body>
+<div id="rotate">TURN YOUR PHONE SIDEWAYS TO PLAY</div>
+<div id="wrap">
+  <canvas id="c" width="1280" height="720"></canvas>
+  <div id="touch">
+    <div id="stick"><div id="knob"></div></div>
+  </div>
+</div>
+<script src="manifest.js"></script>
+<script src="roster.js"></script>
+<script src="game.js"></script>
+</body>
+</html>
