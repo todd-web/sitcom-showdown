@@ -1,0 +1,17 @@
+# never commit secrets or local state
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+cookies*.json
+*cookies*.txt
+.huggingface/
+hf_token*
+credentials*.json
+token*.json
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

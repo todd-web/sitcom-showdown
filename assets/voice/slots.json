@@ -1,0 +1,98 @@
+{
+ "carl": {
+  "special": "carl_special",
+  "taunt": "carl_taunt"
+ },
+ "cliff": {
+  "special": "cliff_special",
+  "taunt": "cliff_taunt"
+ },
+ "dee": {
+  "special": "dee_special",
+  "taunt": "dee_taunt"
+ },
+ "dragonfly": {
+  "special": "dragonfly_special",
+  "taunt": "dragonfly_taunt"
+ },
+ "dwayne": {
+  "special": "dwayne_special",
+  "taunt": "dwayne_taunt"
+ },
+ "ed": {
+  "special": "ed_special",
+  "taunt": "ed_taunt"
+ },
+ "esther": {
+  "special": "esther_special",
+  "taunt": "esther_taunt"
+ },
+ "fred": {
+  "special": "fred_special",
+  "taunt": "fred_taunt"
+ },
+ "george": {
+  "special": "george_special",
+  "taunt": "george_taunt"
+ },
+ "james": {
+  "special": "james_special",
+  "taunt": "james_taunt"
+ },
+ "jj": {
+  "special": "jj_special",
+  "taunt": "jj_taunt"
+ },
+ "keenan": {
+  "special": "keenan_special",
+  "taunt": null
+ },
+ "kim": {
+  "special": "kim_special",
+  "taunt": "kim_taunt"
+ },
+ "moesha": {
+  "special": "moesha_special",
+  "taunt": "moesha_taunt"
+ },
+ "phil": {
+  "special": "phil_special",
+  "taunt": "phil_taunt"
+ },
+ "rerun": {
+  "special": "rerun_special",
+  "taunt": "rerun_taunt"
+ },
+ "sheneneh": {
+  "special": "sheneneh_special",
+  "taunt": "sheneneh_taunt"
+ },
+ "tamera": {
+  "special": null,
+  "taunt": null
+ },
+ "theo": {
+  "special": "theo_special",
+  "taunt": "theo_taunt"
+ },
+ "tia": {
+  "special": null,
+  "taunt": null
+ },
+ "urkel": {
+  "special": "urkel_special",
+  "taunt": "urkel_taunt"
+ },
+ "weezy": {
+  "special": "weezy_special",
+  "taunt": "weezy_taunt"
+ },
+ "whitley": {
+  "special": "whitley_special",
+  "taunt": "whitley_taunt"
+ },
+ "will": {
+  "special": "will_special",
+  "taunt": "will_taunt"
+ }
+}

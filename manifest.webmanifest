@@ -1,6 +1,6 @@
 {
- "name": "Sitcom Showdown",
- "short_name": "Showdown",
+ "name": "Prime Time Brawl",
+ "short_name": "Prime Time Brawl",
  "start_url": "./index.html",
  "display": "fullscreen",
  "orientation": "landscape",

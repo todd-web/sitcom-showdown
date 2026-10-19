@@ -1,0 +1,850 @@
+{
+ "carl_intro": {
+  "file": "carl_intro.mp3",
+  "line": "Steve!",
+  "source": "https://www.youtube.com/watch?v=OPn2nSuvhQ8",
+  "start": 168.95,
+  "lufs": -16.43
+ },
+ "carl_special": {
+  "file": "carl_special.mp3",
+  "line": "Get out!",
+  "source": "https://www.youtube.com/watch?v=OPn2nSuvhQ8",
+  "start": 106.12,
+  "lufs": -16.44,
+  "slot": "special"
+ },
+ "carl_super": {
+  "file": "carl_super.mp3",
+  "line": "Three, two, one.",
+  "source": "https://www.youtube.com/watch?v=puLEku6jpv4",
+  "start": 11.72,
+  "lufs": -16.42
+ },
+ "carl_taunt": {
+  "file": "carl_taunt.mp3",
+  "line": "And don't you ever come back!",
+  "source": "https://www.youtube.com/watch?v=mOIfOtLPm6k",
+  "start": 23.22,
+  "lufs": -16.45,
+  "slot": "taunt"
+ },
+ "carl_win": {
+  "file": "carl_win.mp3",
+  "line": "Go home, go home!",
+  "source": "https://www.youtube.com/watch?v=O2U-0TSerZc",
+  "start": 7.04,
+  "lufs": -16.46
+ },
+ "cliff_intro": {
+  "file": "cliff_intro.mp3",
+  "line": "I am your father.",
+  "source": "https://www.youtube.com/watch?v=Pxiigc7454M",
+  "start": 90.89,
+  "lufs": -16.07
+ },
+ "cliff_special": {
+  "file": "cliff_special.mp3",
+  "line": "Because I said so.",
+  "source": "https://www.youtube.com/watch?v=Pxiigc7454M",
+  "start": 88.5,
+  "lufs": -16.08,
+  "slot": "special"
+ },
+ "cliff_super": {
+  "file": "cliff_super.mp3",
+  "line": "I brought you in this world, and I'll take you out.",
+  "source": "https://www.youtube.com/watch?v=Pxiigc7454M",
+  "start": 92.52,
+  "lufs": -15.89
+ },
+ "cliff_taunt": {
+  "file": "cliff_taunt.mp3",
+  "line": "Regular people?",
+  "source": "https://www.youtube.com/watch?v=gg-dn-9kK34",
+  "start": 63.82,
+  "lufs": -16.06,
+  "slot": "taunt"
+ },
+ "cliff_win": {
+  "file": "cliff_win.mp3",
+  "line": "Theo!",
+  "source": "https://www.youtube.com/watch?v=RjynwJdgJho",
+  "start": 97.6,
+  "lufs": -16.01
+ },
+ "dee_intro": {
+  "file": "dee_intro.mp3",
+  "line": "Nobody's home. What do you want?",
+  "source": "https://www.youtube.com/watch?v=Dnh1ZvJn8fM",
+  "start": 33.32,
+  "lufs": -16.41
+ },
+ "dee_special": {
+  "file": "dee_special.mp3",
+  "line": "Get out of my face!",
+  "source": "https://www.youtube.com/watch?v=Dnh1ZvJn8fM",
+  "start": 9.66,
+  "lufs": -16.04,
+  "slot": "special"
+ },
+ "dee_super": {
+  "file": "dee_super.mp3",
+  "line": "Well, your mama!",
+  "source": "https://www.youtube.com/watch?v=43fC3xepFIQ",
+  "start": 41.92,
+  "lufs": -16.44
+ },
+ "dee_taunt": {
+  "file": "dee_taunt.mp3",
+  "line": "If it's money you want, you can forget it.",
+  "source": "https://www.youtube.com/watch?v=Dnh1ZvJn8fM",
+  "start": 103.29,
+  "lufs": -16.23,
+  "slot": "taunt"
+ },
+ "dee_win": {
+  "file": "dee_win.mp3",
+  "line": "If you don't give, you don't get.",
+  "source": "https://www.youtube.com/watch?v=_M3YcNopKZs",
+  "start": 39.89,
+  "lufs": -16.48
+ },
+ "dragonfly_intro": {
+  "file": "dragonfly_intro.mp3",
+  "line": "Silence!",
+  "source": "https://www.youtube.com/watch?v=jrw_zRBWeZA",
+  "start": 15.25,
+  "lufs": -15.97
+ },
+ "dragonfly_special": {
+  "file": "dragonfly_special.mp3",
+  "line": "You want this? It's on!",
+  "source": "https://www.youtube.com/watch?v=gRqfoXi5d2I",
+  "start": 65.74,
+  "lufs": -16.15,
+  "slot": "special"
+ },
+ "dragonfly_super": {
+  "file": "dragonfly_super.mp3",
+  "line": "Dragonfly Jones.",
+  "source": "https://www.youtube.com/watch?v=HUr5AnMwELg",
+  "start": 17.64,
+  "lufs": -16.3
+ },
+ "dragonfly_taunt": {
+  "file": "dragonfly_taunt.mp3",
+  "line": "It's a pleasure for you to meet me.",
+  "source": "https://www.youtube.com/watch?v=YKbFDaL93as",
+  "start": 38.39,
+  "lufs": -16.15,
+  "slot": "taunt"
+ },
+ "dragonfly_win": {
+  "file": "dragonfly_win.mp3",
+  "line": "...is your pay, punk.",
+  "source": "https://www.youtube.com/watch?v=HUr5AnMwELg",
+  "start": 31.04,
+  "lufs": -16.5
+ },
+ "dwayne_intro": {
+  "file": "dwayne_intro.mp3",
+  "line": "Hey, Pookie!",
+  "source": "https://www.youtube.com/watch?v=0x0xxlwlfWk",
+  "start": 342.49,
+  "lufs": -16.44
+ },
+ "dwayne_special": {
+  "file": "dwayne_special.mp3",
+  "line": "Go sit down and hush up!",
+  "source": "https://www.youtube.com/watch?v=FIhAZgXGlxg",
+  "start": 69.12,
+  "lufs": -16.43,
+  "slot": "special"
+ },
+ "dwayne_super": {
+  "file": "dwayne_super.mp3",
+  "line": "This is my moment, woman.",
+  "source": "https://www.youtube.com/watch?v=FIhAZgXGlxg",
+  "start": 70.59,
+  "lufs": -16.28
+ },
+ "dwayne_taunt": {
+  "file": "dwayne_taunt.mp3",
+  "line": "You lie like a rug.",
+  "source": "https://www.youtube.com/watch?v=FIhAZgXGlxg",
+  "start": 66.24,
+  "lufs": -16.46,
+  "slot": "taunt"
+ },
+ "dwayne_win": {
+  "file": "dwayne_win.mp3",
+  "line": "Baby, please, please.",
+  "source": "https://www.youtube.com/watch?v=3TpQu-4VQKo",
+  "start": 38.92,
+  "lufs": -16.45
+ },
+ "ed_intro": {
+  "file": "ed_intro.mp3",
+  "line": "Welcome to Good Burger, home of the Good Burger.",
+  "source": "https://www.youtube.com/watch?v=6ZZh7bOvBlI",
+  "start": 1.06,
+  "lufs": -16.89
+ },
+ "ed_special": {
+  "file": "ed_special.mp3",
+  "line": "Consider yourself tomatoed.",
+  "source": "https://www.youtube.com/watch?v=pRvTGFT07xg",
+  "start": 119.26,
+  "lufs": -16.04,
+  "slot": "special"
+ },
+ "ed_super": {
+  "file": "ed_super.mp3",
+  "line": "Can I take your order?",
+  "source": "https://www.youtube.com/watch?v=T37xafNajz8",
+  "start": 3.84,
+  "lufs": -16.45
+ },
+ "ed_taunt": {
+  "file": "ed_taunt.mp3",
+  "line": "Okay, see you there!",
+  "source": "https://www.youtube.com/watch?v=oN7ne--M5aI",
+  "start": 33.34,
+  "lufs": -16.15,
+  "slot": "taunt"
+ },
+ "ed_win": {
+  "file": "ed_win.mp3",
+  "line": "Hey, I'm a dude!",
+  "source": "https://www.youtube.com/watch?v=HI1Vc4SH6co",
+  "start": 11.5,
+  "lufs": -16.56
+ },
+ "esther_intro": {
+  "file": "esther_intro.mp3",
+  "line": "Who you callin' ugly, sucka?",
+  "source": "https://www.youtube.com/watch?v=bh8n-Ro9-jE",
+  "start": 0.0,
+  "lufs": -16.44
+ },
+ "esther_special": {
+  "file": "esther_special.mp3",
+  "line": "Don't you talk about my family.",
+  "source": "https://www.youtube.com/watch?v=MMPeoYdiZ5c",
+  "start": 23.38,
+  "lufs": -16.06,
+  "slot": "special"
+ },
+ "esther_super": {
+  "file": "esther_super.mp3",
+  "line": "And beat your brain down!",
+  "source": "https://www.youtube.com/watch?v=q9jXxaVoUU4",
+  "start": 6.14,
+  "lufs": -16.12
+ },
+ "esther_taunt": {
+  "file": "esther_taunt.mp3",
+  "line": "...and most of all, you stupid!",
+  "source": "https://www.youtube.com/watch?v=tyQq6eTMplM",
+  "start": 39.49,
+  "lufs": -16.44,
+  "slot": "taunt"
+ },
+ "esther_win": {
+  "file": "esther_win.mp3",
+  "line": "Heathen!",
+  "source": "https://www.youtube.com/watch?v=q9jXxaVoUU4",
+  "start": 12.5,
+  "lufs": -16.0
+ },
+ "fred_intro": {
+  "file": "fred_intro.mp3",
+  "line": "You big dummy!",
+  "source": "https://www.youtube.com/watch?v=lMTrthePKU0",
+  "start": 0.0,
+  "lufs": -16.0
+ },
+ "fred_special": {
+  "file": "fred_special.mp3",
+  "line": "How would both of you like one across the lip?",
+  "source": "https://www.youtube.com/watch?v=vPSPQe7DlGA",
+  "start": 15.32,
+  "lufs": -16.42,
+  "slot": "special"
+ },
+ "fred_super": {
+  "file": "fred_super.mp3",
+  "line": "This is the big one!",
+  "source": "https://www.youtube.com/watch?v=stdi-1tIUhM",
+  "start": 25.85,
+  "lufs": -16.0
+ },
+ "fred_taunt": {
+  "file": "fred_taunt.mp3",
+  "line": "D-U-M-M-Y.",
+  "source": "https://www.youtube.com/watch?v=uet-zPbkGzs",
+  "start": 2.3,
+  "lufs": -16.12,
+  "slot": "taunt"
+ },
+ "fred_win": {
+  "file": "fred_win.mp3",
+  "line": "Elizabeth, I'm comin' to join ya!",
+  "source": "https://www.youtube.com/watch?v=1Ns8uGaG1is",
+  "start": 10.98,
+  "lufs": -16.0
+ },
+ "george_intro": {
+  "file": "george_intro.mp3",
+  "line": "Say what?",
+  "source": "https://www.youtube.com/watch?v=EBnguHWNLuI",
+  "start": 262.26,
+  "lufs": -16.17
+ },
+ "george_special": {
+  "file": "george_special.mp3",
+  "line": "I'm giving you a chance to save your butt.",
+  "source": "https://www.youtube.com/watch?v=4L837hfCqfk",
+  "start": 245.69,
+  "lufs": -16.05,
+  "slot": "special"
+ },
+ "george_super": {
+  "file": "george_super.mp3",
+  "line": "Look, chump, just get out of here!",
+  "source": "https://www.youtube.com/watch?v=4L837hfCqfk",
+  "start": 275.14,
+  "lufs": -16.21
+ },
+ "george_taunt": {
+  "file": "george_taunt.mp3",
+  "line": "What's your point?",
+  "source": "https://www.youtube.com/watch?v=VT7rJyQOdMo",
+  "start": 126.72,
+  "lufs": -16.42,
+  "slot": "taunt"
+ },
+ "george_win": {
+  "file": "george_win.mp3",
+  "line": "Don't ever ask me to do anything nice again.",
+  "source": "https://www.youtube.com/watch?v=tgidxZ-Hqr4",
+  "start": 22.99,
+  "lufs": -16.44
+ },
+ "james_intro": {
+  "file": "james_intro.mp3",
+  "line": "Hey, I'm home.",
+  "source": "https://www.youtube.com/watch?v=mE5kMU1DZ4E",
+  "start": 503.56,
+  "lufs": -16.45
+ },
+ "james_special": {
+  "file": "james_special.mp3",
+  "line": "Now, Junior!",
+  "source": "https://www.youtube.com/watch?v=mE5kMU1DZ4E",
+  "start": 205.72,
+  "lufs": -16.41,
+  "slot": "special"
+ },
+ "james_super": {
+  "file": "james_super.mp3",
+  "line": "I'm gonna make a believer out of you.",
+  "source": "https://www.youtube.com/watch?v=rBtF8SKU2sw",
+  "start": 38.72,
+  "lufs": -16.45
+ },
+ "james_taunt": {
+  "file": "james_taunt.mp3",
+  "line": "And take your hats off in my house.",
+  "source": "https://www.youtube.com/watch?v=mE5kMU1DZ4E",
+  "start": 425.91,
+  "lufs": -16.44,
+  "slot": "taunt"
+ },
+ "james_win": {
+  "file": "james_win.mp3",
+  "line": "I got it made in the shade.",
+  "source": "https://www.youtube.com/watch?v=mE5kMU1DZ4E",
+  "start": 551.84,
+  "lufs": -16.02
+ },
+ "jj_intro": {
+  "file": "jj_intro.mp3",
+  "line": "Dy-no-mite!",
+  "source": "https://www.youtube.com/watch?v=I02B1lq7ya8",
+  "start": 567.95,
+  "lufs": -16.05
+ },
+ "jj_special": {
+  "file": "jj_special.mp3",
+  "line": "Here I am!",
+  "source": "https://www.youtube.com/watch?v=I02B1lq7ya8",
+  "start": 0.0,
+  "lufs": -16.45,
+  "slot": "special"
+ },
+ "jj_super": {
+  "file": "jj_super.mp3",
+  "line": "Kid Dy-no-mite!",
+  "source": "https://www.youtube.com/watch?v=v19PpD5uqL0",
+  "start": 7.84,
+  "lufs": -16.49
+ },
+ "jj_taunt": {
+  "file": "jj_taunt.mp3",
+  "line": "It looked better on the dummy.",
+  "source": "https://www.youtube.com/watch?v=aebXmeq2fPc",
+  "start": 218.92,
+  "lufs": -16.5,
+  "slot": "taunt"
+ },
+ "jj_win": {
+  "file": "jj_win.mp3",
+  "line": "Dy-no-mite! (long)",
+  "source": "https://www.youtube.com/watch?v=I02B1lq7ya8",
+  "start": 388.45,
+  "lufs": -16.44
+ },
+ "keenan_intro": {
+  "file": "keenan_intro.mp3",
+  "line": "Mr. Kel Kimball!",
+  "source": "https://www.youtube.com/watch?v=m29-zmykcIg",
+  "start": 71.18,
+  "lufs": -16.49
+ },
+ "keenan_special": {
+  "file": "keenan_special.mp3",
+  "line": "Forget about the yo-yo, let's go!",
+  "source": "https://www.youtube.com/watch?v=ZJ53jOtn4Mw",
+  "start": 25.54,
+  "lufs": -16.11,
+  "slot": "special"
+ },
+ "keenan_super": {
+  "file": "keenan_super.mp3",
+  "line": "Why?!",
+  "source": "https://www.youtube.com/watch?v=F1geHuoc7_8",
+  "start": 98.24,
+  "lufs": -16.02
+ },
+ "keenan_win": {
+  "file": "keenan_win.mp3",
+  "line": "No more questions.",
+  "source": "https://www.youtube.com/watch?v=m29-zmykcIg",
+  "start": 215.56,
+  "lufs": -16.01
+ },
+ "kim_intro": {
+  "file": "kim_intro.mp3",
+  "line": "Hey, girl, let's go. Let's go.",
+  "source": "https://www.youtube.com/watch?v=QsYFUuZ9XHs",
+  "start": 287.49,
+  "lufs": -16.14
+ },
+ "kim_special": {
+  "file": "kim_special.mp3",
+  "line": "I'm sick and tired of you!",
+  "source": "https://www.youtube.com/watch?v=zQKdM8W7K94",
+  "start": 0.0,
+  "lufs": -16.22,
+  "slot": "special"
+ },
+ "kim_super": {
+  "file": "kim_super.mp3",
+  "line": "'Cause you ugly!",
+  "source": "https://www.youtube.com/watch?v=QsYFUuZ9XHs",
+  "start": 140.02,
+  "lufs": -16.04
+ },
+ "kim_taunt": {
+  "file": "kim_taunt.mp3",
+  "line": "Oh, go ahead, write me up, boss.",
+  "source": "https://www.youtube.com/watch?v=QsYFUuZ9XHs",
+  "start": 260.04,
+  "lufs": -16.5,
+  "slot": "taunt"
+ },
+ "kim_win": {
+  "file": "kim_win.mp3",
+  "line": "News flash, Momo. You're not all that.",
+  "source": "https://www.youtube.com/watch?v=zQKdM8W7K94",
+  "start": 37.86,
+  "lufs": -16.45
+ },
+ "moesha_intro": {
+  "file": "moesha_intro.mp3",
+  "line": "I, Moesha Mitchell...",
+  "source": "https://www.youtube.com/watch?v=kn9pVgxvVZE",
+  "start": 283.59,
+  "lufs": -16.04
+ },
+ "moesha_special": {
+  "file": "moesha_special.mp3",
+  "line": "Excuse me?",
+  "source": "https://www.youtube.com/watch?v=zQKdM8W7K94",
+  "start": 5.2,
+  "lufs": -16.16,
+  "slot": "special"
+ },
+ "moesha_super": {
+  "file": "moesha_super.mp3",
+  "line": "Mo to the E to the...",
+  "source": "https://www.youtube.com/watch?v=zyx5ArXI1KY",
+  "start": 0.0,
+  "lufs": -16.18
+ },
+ "moesha_taunt": {
+  "file": "moesha_taunt.mp3",
+  "line": "Almost? Well, almost doesn't count, boo.",
+  "source": "https://www.youtube.com/watch?v=8a8Z82n3xYQ",
+  "start": 92.48,
+  "lufs": -16.15,
+  "slot": "taunt"
+ },
+ "moesha_win": {
+  "file": "moesha_win.mp3",
+  "line": "Oh, and you are?",
+  "source": "https://www.youtube.com/watch?v=zQKdM8W7K94",
+  "start": 40.84,
+  "lufs": -16.45
+ },
+ "phil_intro": {
+  "file": "phil_intro.mp3",
+  "line": "Who do we have here?",
+  "source": "https://www.youtube.com/watch?v=Cm9usw-bhXM",
+  "start": 3.99,
+  "lufs": -16.45
+ },
+ "phil_special": {
+  "file": "phil_special.mp3",
+  "line": "Oh, shut up, Will!",
+  "source": "https://www.youtube.com/watch?v=RhwKThi-Wfo",
+  "start": 63.18,
+  "lufs": -16.5,
+  "slot": "special"
+ },
+ "phil_super": {
+  "file": "phil_super.mp3",
+  "line": "You big-eared freeloader!",
+  "source": "https://www.youtube.com/watch?v=JLkBycpU-8s",
+  "start": 37.44,
+  "lufs": -16.45
+ },
+ "phil_taunt": {
+  "file": "phil_taunt.mp3",
+  "line": "If I want your opinion, I'll beat it out of you.",
+  "source": "https://www.youtube.com/watch?v=LqPbEOKzzUA",
+  "start": 37.0,
+  "lufs": -16.11,
+  "slot": "taunt"
+ },
+ "phil_win": {
+  "file": "phil_win.mp3",
+  "line": "Do I make myself perfectly clear?",
+  "source": "https://www.youtube.com/watch?v=kV8sZaIjYIQ",
+  "start": 261.26,
+  "lufs": -16.44
+ },
+ "rerun_intro": {
+  "file": "rerun_intro.mp3",
+  "line": "8-ish will be there-ish.",
+  "source": "https://www.youtube.com/watch?v=WGLjJLuRY1k",
+  "start": 227.49,
+  "lufs": -16.11
+ },
+ "rerun_special": {
+  "file": "rerun_special.mp3",
+  "line": "Re-run? That's me.",
+  "source": "https://www.youtube.com/watch?v=2vvpGRf21oI",
+  "start": 522.42,
+  "lufs": -16.1,
+  "slot": "special"
+ },
+ "rerun_super": {
+  "file": "rerun_super.mp3",
+  "line": "Are you making fun of me being fat again?",
+  "source": "https://www.youtube.com/watch?v=bA8UVKFM0R8",
+  "start": 29.89,
+  "lufs": -16.44
+ },
+ "rerun_taunt": {
+  "file": "rerun_taunt.mp3",
+  "line": "Snicker all you want!",
+  "source": "https://www.youtube.com/watch?v=zaWM_mrMFQ4",
+  "start": 55.02,
+  "lufs": -16.47,
+  "slot": "taunt"
+ },
+ "rerun_win": {
+  "file": "rerun_win.mp3",
+  "line": "What's happening!",
+  "source": "https://www.youtube.com/watch?v=2vvpGRf21oI",
+  "start": 2.46,
+  "lufs": -16.46
+ },
+ "sheneneh_intro": {
+  "file": "sheneneh_intro.mp3",
+  "line": "Oh my goodness!",
+  "source": "https://www.youtube.com/watch?v=UaPEyXZoyL0",
+  "start": 6.8,
+  "lufs": -15.96
+ },
+ "sheneneh_special": {
+  "file": "sheneneh_special.mp3",
+  "line": "Okay, no you didn't!",
+  "source": "https://www.youtube.com/watch?v=631NG_I6-mg",
+  "start": 65.99,
+  "lufs": -16.3,
+  "slot": "special"
+ },
+ "sheneneh_super": {
+  "file": "sheneneh_super.mp3",
+  "line": "Get out of my face!",
+  "source": "https://www.youtube.com/watch?v=UaPEyXZoyL0",
+  "start": 284.62,
+  "lufs": -16.44
+ },
+ "sheneneh_taunt": {
+  "file": "sheneneh_taunt.mp3",
+  "line": "You want to run that by me one more time?",
+  "source": "https://www.youtube.com/watch?v=UaPEyXZoyL0",
+  "start": 484.61,
+  "lufs": -16.47,
+  "slot": "taunt"
+ },
+ "sheneneh_win": {
+  "file": "sheneneh_win.mp3",
+  "line": "That's right, you better run. Run.",
+  "source": "https://www.youtube.com/watch?v=UaPEyXZoyL0",
+  "start": 76.54,
+  "lufs": -16.49
+ },
+ "tamera_intro": {
+  "file": "tamera_intro.mp3",
+  "line": "We just found out we were twins.",
+  "source": "https://www.youtube.com/watch?v=y1DrVFzAi6k",
+  "start": 47.64,
+  "lufs": -16.48
+ },
+ "tamera_super": {
+  "file": "tamera_super.mp3",
+  "line": "Go home, Roger!",
+  "source": "https://www.youtube.com/watch?v=E18nnujYSp8",
+  "start": 4.15,
+  "lufs": -16.44
+ },
+ "tamera_win": {
+  "file": "tamera_win.mp3",
+  "line": "Never gonna get it, never gonna get it!",
+  "source": "https://www.youtube.com/watch?v=qFZckPx7ZXg",
+  "start": 7.38,
+  "lufs": -16.46
+ },
+ "theo_intro": {
+  "file": "theo_intro.mp3",
+  "line": "Hey, what's happening, Dad?",
+  "source": "https://www.youtube.com/watch?v=5nbDVUT-nOs",
+  "start": 15.24,
+  "lufs": -16.45
+ },
+ "theo_special": {
+  "file": "theo_special.mp3",
+  "line": "I hate it! Look at it!",
+  "source": "https://www.youtube.com/watch?v=LPW-3LAS7pU",
+  "start": 37.74,
+  "lufs": -16.45,
+  "slot": "special"
+ },
+ "theo_super": {
+  "file": "theo_super.mp3",
+  "line": "Gordon Gartrell.",
+  "source": "https://www.youtube.com/watch?v=RjynwJdgJho",
+  "start": 19.6,
+  "lufs": -15.82
+ },
+ "theo_taunt": {
+  "file": "theo_taunt.mp3",
+  "line": "Yo, bro.",
+  "source": "https://www.youtube.com/watch?v=ifmrrK-K4gk",
+  "start": 135.94,
+  "lufs": -16.46,
+  "slot": "taunt"
+ },
+ "theo_win": {
+  "file": "theo_win.mp3",
+  "line": "They love the shirt!",
+  "source": "https://www.youtube.com/watch?v=25N32YWJZFM",
+  "start": 171.44,
+  "lufs": -16.44
+ },
+ "tia_intro": {
+  "file": "tia_intro.mp3",
+  "line": "That girl has my face!",
+  "source": "https://www.youtube.com/watch?v=qFZckPx7ZXg",
+  "start": 2.82,
+  "lufs": -16.47
+ },
+ "tia_super": {
+  "file": "tia_super.mp3",
+  "line": "Go home, Roger!",
+  "source": "https://www.youtube.com/watch?v=E18nnujYSp8",
+  "start": 2.3,
+  "lufs": -16.44
+ },
+ "tia_win": {
+  "file": "tia_win.mp3",
+  "line": "I guess we know who the evil twin is.",
+  "source": "https://www.youtube.com/watch?v=y1DrVFzAi6k",
+  "start": 75.99,
+  "lufs": -16.45
+ },
+ "urkel_intro": {
+  "file": "urkel_intro.mp3",
+  "line": "Did I do that?",
+  "source": "https://www.youtube.com/watch?v=xz3ZOoYSMuw",
+  "start": 3.7,
+  "lufs": -16.42
+ },
+ "urkel_special": {
+  "file": "urkel_special.mp3",
+  "line": "I've been practicing. Watch this.",
+  "source": "https://www.youtube.com/watch?v=uUzn8_H9f0o",
+  "start": 86.04,
+  "lufs": -16.28,
+  "slot": "special"
+ },
+ "urkel_super": {
+  "file": "urkel_super.mp3",
+  "line": "Got any cheese?",
+  "source": "https://www.youtube.com/watch?v=klFBadAZ2fs",
+  "start": 18.85,
+  "lufs": -16.45
+ },
+ "urkel_taunt": {
+  "file": "urkel_taunt.mp3",
+  "line": "I'm wearing you down, baby.",
+  "source": "https://www.youtube.com/watch?v=1DPRfM2DrRY",
+  "start": 18.56,
+  "lufs": -16.42,
+  "slot": "taunt"
+ },
+ "urkel_win": {
+  "file": "urkel_win.mp3",
+  "line": "Did I do that?",
+  "source": "https://www.youtube.com/watch?v=xz3ZOoYSMuw",
+  "start": 103.12,
+  "lufs": -16.45
+ },
+ "weezy_intro": {
+  "file": "weezy_intro.mp3",
+  "line": "George!",
+  "source": "https://www.youtube.com/watch?v=xpN502pW2oE",
+  "start": 166.55,
+  "lufs": -16.0
+ },
+ "weezy_special": {
+  "file": "weezy_special.mp3",
+  "line": "You'd better keep away from me.",
+  "source": "https://www.youtube.com/watch?v=xpN502pW2oE",
+  "start": 471.56,
+  "lufs": -16.28,
+  "slot": "special"
+ },
+ "weezy_super": {
+  "file": "weezy_super.mp3",
+  "line": "I'll snatch you baldheaded!",
+  "source": "https://www.youtube.com/watch?v=mAxnjmNRSVA",
+  "start": 0.0,
+  "lufs": -16.45
+ },
+ "weezy_taunt": {
+  "file": "weezy_taunt.mp3",
+  "line": "Well, you better say something.",
+  "source": "https://www.youtube.com/watch?v=xpN502pW2oE",
+  "start": 718.64,
+  "lufs": -16.13,
+  "slot": "taunt"
+ },
+ "weezy_win": {
+  "file": "weezy_win.mp3",
+  "line": "Oh, George.",
+  "source": "https://www.youtube.com/watch?v=xpN502pW2oE",
+  "start": 727.84,
+  "lufs": -16.46
+ },
+ "whitley_intro": {
+  "file": "whitley_intro.mp3",
+  "line": "Oh, please, honey.",
+  "source": "https://www.youtube.com/watch?v=R8qeGeFQloI",
+  "start": 84.34,
+  "lufs": -16.31
+ },
+ "whitley_special": {
+  "file": "whitley_special.mp3",
+  "line": "Come on, put 'em up. I'm ready for you.",
+  "source": "https://www.youtube.com/watch?v=R8qeGeFQloI",
+  "start": 316.09,
+  "lufs": -16.43,
+  "slot": "special"
+ },
+ "whitley_super": {
+  "file": "whitley_super.mp3",
+  "line": "Be prepared to throw down!",
+  "source": "https://www.youtube.com/watch?v=R8qeGeFQloI",
+  "start": 312.56,
+  "lufs": -16.45
+ },
+ "whitley_taunt": {
+  "file": "whitley_taunt.mp3",
+  "line": "You scared I might clock you?",
+  "source": "https://www.youtube.com/watch?v=R8qeGeFQloI",
+  "start": 328.99,
+  "lufs": -16.44,
+  "slot": "taunt"
+ },
+ "whitley_win": {
+  "file": "whitley_win.mp3",
+  "line": "Sorry, homey. Whitley don't play that.",
+  "source": "https://www.youtube.com/watch?v=I76feX1ltfU",
+  "start": 28.29,
+  "lufs": -16.44
+ },
+ "will_intro": {
+  "file": "will_intro.mp3",
+  "line": "Oh, yo, what's up, Uncle Phil?",
+  "source": "https://www.youtube.com/watch?v=O4N09f926o4",
+  "start": 200.69,
+  "lufs": -16.19
+ },
+ "will_special": {
+  "file": "will_special.mp3",
+  "line": "Whoa, whoa, whoa, whoa.",
+  "source": "https://www.youtube.com/watch?v=_vwfYMie2L0",
+  "start": 38.56,
+  "lufs": -16.45,
+  "slot": "special"
+ },
+ "will_super": {
+  "file": "will_super.mp3",
+  "line": "In West Philadelphia",
+  "source": "https://www.youtube.com/watch?v=0pmn7bhMAl0",
+  "start": 0.0,
+  "lufs": -16.46
+ },
+ "will_taunt": {
+  "file": "will_taunt.mp3",
+  "line": "Oh, girl, don't hate me because I'm beautiful.",
+  "source": "https://www.youtube.com/watch?v=_vwfYMie2L0",
+  "start": 161.04,
+  "lufs": -16.46,
+  "slot": "taunt"
+ },
+ "will_win": {
+  "file": "will_win.mp3",
+  "line": "Woo!",
+  "source": "https://www.youtube.com/watch?v=JXrfAou0cdU",
+  "start": 4.14,
+  "lufs": -16.46
+ }
+}

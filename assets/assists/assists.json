@@ -1,0 +1,182 @@
+{
+ "florence": {
+  "name": "Florence",
+  "size": 0.93,
+  "poses": {
+   "run": {
+    "file": "assets/assists/florence/run.webp",
+    "w": 297,
+    "h": 480,
+    "ax": 175
+   },
+   "atk1": {
+    "file": "assets/assists/florence/atk1.webp",
+    "w": 303,
+    "h": 470,
+    "ax": 140
+   },
+   "atk2": {
+    "file": "assets/assists/florence/atk2.webp",
+    "w": 314,
+    "h": 470,
+    "ax": 233
+   },
+   "exit": {
+    "file": "assets/assists/florence/exit.webp",
+    "w": 297,
+    "h": 480,
+    "ax": 122
+   }
+  }
+ },
+ "jazz": {
+  "name": "Jazz",
+  "size": 1.12,
+  "poses": {
+   "run": {
+    "file": "assets/assists/jazz/run.webp",
+    "w": 329,
+    "h": 468,
+    "ax": 264
+   },
+   "atk1": {
+    "file": "assets/assists/jazz/atk1.webp",
+    "w": 415,
+    "h": 225,
+    "ax": 229
+   },
+   "atk2": {
+    "file": "assets/assists/jazz/atk2.webp",
+    "w": 447,
+    "h": 300,
+    "ax": 168
+   },
+   "exit": {
+    "file": "assets/assists/jazz/exit.webp",
+    "w": 329,
+    "h": 468,
+    "ax": 65
+   }
+  }
+ },
+ "geoffrey": {
+  "name": "Geoffrey",
+  "size": 0.94,
+  "poses": {
+   "run": {
+    "file": "assets/assists/geoffrey/run.webp",
+    "w": 319,
+    "h": 485,
+    "ax": 157
+   },
+   "atk1": {
+    "file": "assets/assists/geoffrey/atk1.webp",
+    "w": 318,
+    "h": 460,
+    "ax": 153
+   },
+   "atk2": {
+    "file": "assets/assists/geoffrey/atk2.webp",
+    "w": 312,
+    "h": 470,
+    "ax": 143
+   },
+   "exit": {
+    "file": "assets/assists/geoffrey/exit.webp",
+    "w": 319,
+    "h": 485,
+    "ax": 162
+   }
+  }
+ },
+ "grady": {
+  "name": "Grady",
+  "size": 0.97,
+  "poses": {
+   "run": {
+    "file": "assets/assists/grady/run.webp",
+    "w": 307,
+    "h": 513,
+    "ax": 148
+   },
+   "atk1": {
+    "file": "assets/assists/grady/atk1.webp",
+    "w": 348,
+    "h": 519,
+    "ax": 164
+   },
+   "atk2": {
+    "file": "assets/assists/grady/atk2.webp",
+    "w": 360,
+    "h": 441,
+    "ax": 183
+   },
+   "exit": {
+    "file": "assets/assists/grady/exit.webp",
+    "w": 307,
+    "h": 513,
+    "ax": 159
+   }
+  }
+ },
+ "harriette": {
+  "name": "Harriette",
+  "size": 0.98,
+  "poses": {
+   "run": {
+    "file": "assets/assists/harriette/run.webp",
+    "w": 314,
+    "h": 475,
+    "ax": 161
+   },
+   "atk1": {
+    "file": "assets/assists/harriette/atk1.webp",
+    "w": 328,
+    "h": 475,
+    "ax": 137
+   },
+   "atk2": {
+    "file": "assets/assists/harriette/atk2.webp",
+    "w": 304,
+    "h": 465,
+    "ax": 161
+   },
+   "exit": {
+    "file": "assets/assists/harriette/exit.webp",
+    "w": 314,
+    "h": 475,
+    "ax": 153
+   }
+  }
+ },
+ "myra": {
+  "name": "Myra",
+  "size": 0.92,
+  "poses": {
+   "run": {
+    "file": "assets/assists/myra/run.webp",
+    "w": 375,
+    "h": 470,
+    "ax": 264
+   },
+   "atk1": {
+    "file": "assets/assists/myra/atk1.webp",
+    "w": 510,
+    "h": 310,
+    "ax": 149
+   },
+   "atk2": {
+    "file": "assets/assists/myra/atk2.webp",
+    "w": 261,
+    "h": 445,
+    "ax": 96
+   },
+   "exit": {
+    "file": "assets/assists/myra/exit.webp",
+    "w": 375,
+    "h": 470,
+    "ax": 111
+   }
+  }
+ }
+}
